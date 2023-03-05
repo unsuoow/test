@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(255, 255, 255);
+
+    
+}
+
+
+
+
+
+p{
+    text-decoration: none ;
+    color: rgb(243, 215, 174);
+    font-size: 100px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    
+}
+
+
+img {
+
+    display: block;
+
+    margin-right:auto;
+
+    margin-left:auto;
+
+    margin-bottom: 40%;
+
+    max-width: 90%; 
+    
+    height: auto;
+
+    max-height: 80%;
+
+}
+
+
+

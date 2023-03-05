@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(7, 0, 31);
+
+}
+
+
+img{
+    display: block;
+
+    margin-bottom: 50px;
+
+    max-width: 80%;
+
+    margin-right: auto;
+
+    margin-left: auto;
+
+    width: auto !important;
+
+    height: auto;
+
+}

@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(0, 0, 0);
+
+   
+}
+
+
+
+
+
+p{  text-align: center;
+    text-decoration: none ;
+    color: rgb(243, 215, 174);
+    font-size: 100px;
+  
+  
+    
+}
+
+
+img {
+
+    display: block;
+
+    margin-right:auto;
+
+    margin-left:auto;
+
+    margin-bottom: 20%;
+
+    max-width: 90%; 
+    
+    height: auto;
+
+    max-height: 80%;
+
+}
+
+
+
